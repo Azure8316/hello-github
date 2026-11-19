@@ -15,3 +15,7 @@ git clone <仓库地址>       # 下载到本地
 git add .                  # 暂存改动
 git commit -m "说明"       # 保存快照
 git push                   # 推送到 GitHub
+
+## 第 4 步练习
+
+这是在本地修改后提交的改动。
