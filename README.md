@@ -19,3 +19,7 @@ git push                   # 推送到 GitHub
 ## 第 4 步练习
 
 这是在本地修改后提交的改动。
+
+## 来自 feature/test 分支
+
+这是在功能分支上做的改动，用来练习 Pull Request。
